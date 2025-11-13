@@ -16,7 +16,7 @@ Return the next integer in order using next().
 ```
 Program to Flatten a Nested List Using an Iterator
 Developed by: Naresh P.S.
-RegisterNumber: 1731
+RegisterNumber: 212223040127
 Date: 11-11-2025
 
 
